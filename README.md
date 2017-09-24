@@ -1,2 +1,2 @@
-# svmotha.github.io
-1 page business card
+# Victor Motha
+One page business card.
