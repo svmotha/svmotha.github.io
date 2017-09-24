@@ -1,0 +1,28 @@
+body {
+	background-color: #f5f8fa;
+	color: #636b6f;
+}
+
+a {
+	color: #636b6f;
+	padding: 1rem;
+}
+
+p {
+	color: #636b6f;
+}
+
+.border-secondary {
+	background-color: #f5f8fa;
+	border: #f5f8fa;
+}
+
+.jumbotron{
+  height: 100vh;
+  background-color: #f5f8fa;
+  color: #636b6f;
+}
+
+.img-thumbnail {
+	border-color: #636b6f;
+}
